@@ -1,7 +1,1 @@
-echo "# RAP15EV04" >> DEMO.md 
-  git init 
-  git add README.md 
-  git commit -m "primer compromiso" 
-  git rama -M principal 
-  git remoto agregar origen https://github.com/TeamSofDYM/RAP15EV04.git
-   git push - u origen principal
+
